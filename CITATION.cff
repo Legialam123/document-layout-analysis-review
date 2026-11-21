@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "Nếu sử dụng repository, vui lòng trích dẫn dự án này và trích dẫn bài báo DocLayNet gốc khi dùng số liệu của họ."
+type: software
+title: "Document Layout Analysis Review: Deep Learning Methods, Datasets and Generalization"
+authors:
+  - family-names: "Lê"
+    given-names: "Gia Lâm"
+abstract: "Tổng quan học thuật và mã trực quan hóa các kết quả đã công bố về phân tích bố cục tài liệu."
+keywords:
+  - document-layout-analysis
+  - deep-learning
+  - DocLayNet
+  - literature-review
+license: MIT
